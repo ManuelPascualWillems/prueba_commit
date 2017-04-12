@@ -1,0 +1,3 @@
+Porque cojones no me coje una suma de columnas en el select de hibernate
+
+Claves principales multiples en hibernate.
